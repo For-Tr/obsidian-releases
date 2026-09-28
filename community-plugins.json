@@ -57097,5 +57097,12 @@
     "author": "Fabian Schober",
     "description": "Two-way sync of TaskNotes tasks with a CalDAV task list (VTODO). Requires TaskNotes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "schobernoise/tasknotes-caldav"
+  },
+  {
+    "id": "explain-selection",
+    "name": "Explain Selection",
+    "author": "For-Tr",
+    "description": "Select text in Obsidian and get a streaming AI explanation in a compact Markdown knowledge card.",
+    "repo": "For-Tr/obsidian-explain-selection"
   }
 ]
